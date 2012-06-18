@@ -1,12 +1,9 @@
 SLC-API
 =======
 
-This repository is primarily for issue tracking with the Shared 
-Learning Collaborative (SLC).  Please track any issues encountered with
-the SLC API using the Issues tab at the top of the GitHub project space.
-
-We've also added technical documentation to this repository as reference 
-and to provide an easy way to download the full set as a whole.
+This area is used primarily for tracking issues associated with the
+Shared Learning Collaborative (SLC) API.  Please track SLC API issues
+by using the Issues tab at the top of the GitHub project space.
 
 In the coming weeks, we will add utilities and sample applications to 
 our organization page at GitHub.  For more information about the Shared
